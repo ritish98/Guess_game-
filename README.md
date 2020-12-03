@@ -1,4 +1,7 @@
-1.install python
-https://www.python.org
-2.run this command in cmd
-python new.py	
+## installation
+- install python from this link [python](https://www.python.org/)
+
+### run the app
+```
+python new.py
+```
