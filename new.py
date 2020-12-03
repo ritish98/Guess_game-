@@ -16,5 +16,6 @@ elif int(num) <1 or int(num)>10  :
     print('invalid entry,choose between 1-10 only')
 else  :
     print('sorry, try  again')
+    //some comment
 
     
